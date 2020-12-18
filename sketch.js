@@ -113,7 +113,7 @@ function draw(){
     {
       writePosition(0,-5);
     }
-    if(player1.X>500)
+    if(player1.x>500)
     {
       database.ref('/').update({
         'player1Score':player1Score-5,
@@ -151,7 +151,7 @@ function draw(){
     {
       writePosition2(0,-5);
     }
-    if(player2.X>500)
+    if(player2.x>500)
     {
       database.ref('/').update({
         'player1Score':player1Score+5,
