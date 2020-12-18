@@ -1,0 +1,17 @@
+{
+  "gameState" : 0,
+  "player1" : {
+    "position" : {
+      "x" : 150,
+      "y" : 300
+    }
+  },
+  "player1Score" : 0,
+  "player2" : {
+    "position" : {
+      "x" : 450,
+      "y" : 300
+    }
+  },
+  "player2Score" : 0
+}
